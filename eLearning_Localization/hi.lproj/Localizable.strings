@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  eLearning_Localization
+
+  Created by Dhaval Gevariya on 25/08/20.
+  Copyright © 2020 Dhaval Gevariya. All rights reserved.
+*/
+
+"Hello" = "हैलो";
+"Good" = "अच्छा";
+"Night" = "रात";
